@@ -1,0 +1,15 @@
+mudra-tist-firebase-adminsdk-fbsvc-ff34e1bd9f.json
+
+node_modules/
+
+*.log
+
+# dotenv (if you later use .env)
+.env
+
+# IDE specific (optional but recommended)
+.vscode/
+.DS_Store
+
+# OS specific
+Thumbs.db
